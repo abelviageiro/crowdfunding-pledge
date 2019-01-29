@@ -43,10 +43,9 @@ Agriya Crowdfunding Suite is a complete fundraising marketplace platform that ca
 * [Crowdfunding Lend](https://github.com/agriya/crowdfunding-lend) -  Lend for p2p lending based fundraising website.
 
 
-
 ## How it works
 
-[kickstarter clone](https://www.agriya.com/products/kickstarter-clone) Despite the expansion of the fundraising business model, the pledge is the first and foremost business model for corralling funds from the crowd in return of rewards
+[crowdfunding pledge](https://www.agriya.com/products/kickstarter-clone) Despite the expansion of the fundraising business model, the pledge is the first and foremost business model for corralling funds from the crowd in return of rewards
 
 [![pledge_how_is_it_works](https://user-images.githubusercontent.com/4700341/51888299-a7f22980-23bc-11e9-90f2-e54b5d4f512d.png)](https://www.agriya.com/products/kickstarter-clone)
 
