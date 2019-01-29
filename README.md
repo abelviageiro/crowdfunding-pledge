@@ -13,17 +13,19 @@ https://www.agriya.com/products/kickstarter-clone
 
 Demo URL: http://crowdfunding-pledge.demo.agriya.com/
 
-#User details:
+### User details
+
 Username: user
+
 Password: agriya
 
-#Admin User details:
-URL: http://crowdfunding-pledge.demo.agriya.com/
-Username:   admin
+### Admin User details
+
+Username: admin
+
 Password: agriya
 
 Need help for server installation / product customization, please [contact us](https://www.agriya.com/contact).
-
 
 ## Support
 
