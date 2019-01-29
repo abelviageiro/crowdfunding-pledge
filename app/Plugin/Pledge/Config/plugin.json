@@ -1,0 +1,20 @@
+{
+	"name" : "Pledge",
+	"description" : "By enabling this, the users can pledge fund on projects. i.e., the amount will captured or refunded according to the funding method selected by the project owner, after the project reached end date.",
+	"author" : "Agriya",
+	"authorEmail" : "info@agriya.com",
+	"authorUrl" : "http://www.agriya.com",
+	"settings" : {
+		"setting_category_id" : "11",
+		"controller" : "settings",
+		"action" : "edit",
+		"hashValue" : ""
+	},
+	"parent": "1.Modules.Children",
+	"subplugin" : "ProjectRewards",
+	"icon" : "pledge-s",
+	"disable" : 1,
+	"delete" : 1,
+	"module_id": "s181",
+	"module_hash": "63864b9195afbcfb1e4a04aab6e6eb7c"
+}
