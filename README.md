@@ -1,6 +1,6 @@
 # Crowdfunding Pledge
 
-Crowdfunding Pledge, part of Crowdfunding Suite (Pledge, Donate, Equity, Lend) is an open source reward-basd fundraising script that is cable to run sites simlar to Kickstarter. It is written in CakePHP with MySQL.
+Crowdfunding Pledge, part of Crowdfunding Suite (Pledge, Donate, Equity, Lend) is an open source reward-basd fundraising script that is cable to run sites similar to Kickstarter. It is written in CakePHP with MySQL.
 
 > This project is part of Agriya Open Source efforts. Crowdfunding was originally a paid script and was selling around 60000 Euros. It is now released under dual license ([OSL 3.0](https://www.agriya.com/resources) & [Commercial](https://www.agriya.com/products/kickstarter-clone)) for open source community benefits.
 
@@ -11,25 +11,9 @@ Crowdfunding Pledge, part of Crowdfunding Suite (Pledge, Donate, Equity, Lend) i
 
 https://www.agriya.com/products/kickstarter-clone
 
-Demo URL: http://crowdfunding-pledge.demo.agriya.com/
-
-### User details
-
-Username: user
-
-Password: agriya
-
-### Admin User details
-
-Username: admin
-
-Password: agriya
-
-Need help for server installation / product customization, please [contact us](https://www.agriya.com/contact).
-
 ## Support
 
-Crowdfunding Pledge is an open source reward-basd fundraising project. Full commercial support (commercial license, customization, training, etc) are available through [crowdfunding  platform support](https://www.agriya.com/products/kickstarter-clone)
+Crowdfunding Pledge is an open source reward-basd fundraising project. Full commercial support (commercial license, customization, training, etc) are available through [Crowdfunding Pledge Platform Support](https://www.agriya.com/products/kickstarter-clone)
 
 Theming partner [CSSilize for design and HTML conversions](http://cssilize.com/)
 
@@ -110,7 +94,7 @@ It allows user to register themselves as investor, affiliate member, and project
 
 Our approach is similar to Magento. If anything is not clear, please [contact us](https://www.agriya.com/contact).
 
-All Submissions you make to crowdfunding-pledge through GitHub are subject to the following terms and conditions:
+All Submissions you make to Crowdfunding Pledge through GitHub are subject to the following terms and conditions:
 
 * You grant Agriya a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publicly perform, sublicense and distribute any feedback, ideas, code, or other information ("Submission") you submit through GitHub.
 * Your Submission is an original work of authorship and you are the owner or are legally entitled to grant the license stated above.
