@@ -1,6 +1,6 @@
 # Crowdfunding Pledge
 
-Crowdfunding Pledge, part of Crowdfunding Suite (Pledge, Donate, Equity, Lend) is an open source reward-basd fundraising script that is cable to run sites similar to Kickstarter. It is written in CakePHP with MySQL.
+Crowdfunding Pledge, part of Crowdfunding Suite (Pledge, Donate, Equity, Lend) is an open source reward-basd fundraising script that is cable to run sites similar to Kickstarter, Indiegogo, etc.
 
 > This project is part of Agriya Open Source efforts. Crowdfunding was originally a paid script and was selling around 60000 Euros. It is now released under dual license ([OSL 3.0](https://www.agriya.com/resources) & [Commercial](https://www.agriya.com/products/kickstarter-clone)) for open source community benefits.
 
@@ -25,6 +25,10 @@ Agriya Crowdfunding Suite is a complete fundraising marketplace platform that ca
 * [Crowdfunding Donate](https://github.com/agriya/crowdfunding-donate) - Donate platform for receiving and giving donations.
 * [Crowdfunding Equity](https://github.com/agriya/crowdfunding-equity) - Equity based Fundraising business platform.
 * [Crowdfunding Lend](https://github.com/agriya/crowdfunding-lend) -  Lend for p2p lending based fundraising website.
+
+## Comparable Crowdfunding Clones
+
+Crowdfunding-pledge is comparable to below websites: kickstarter.com, fundrazr.com, fundedbyme.com, indiegogo.com, gofundme.com, rockethub.com, microryza.com, fundly.com, fondomat.com, funding4learning.com, rockthepost.com, artistshare.com, sellaband.com, giveforward.com, en.headstart.co.il, offbeatr.com, petridish.org, youcaring.com, bountysource.com, rally.org, mobcaster.com, crowdcube.com, earlyshares.com, banktothefuture.com, bolstr.com
 
 
 ## How it works
@@ -102,6 +106,6 @@ All Submissions you make to Crowdfunding Pledge through GitHub are subject to th
 
 ### License
 
-Copyright (c) 2014-2018 [Agriya](https://www.agriya.com/).
+Copyright (c) 2014-2019 [Agriya](https://www.agriya.com/).
 
 Dual License (OSL 3.0 & [Commercial License](https://www.agriya.com/contact))
